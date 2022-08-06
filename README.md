@@ -2,6 +2,11 @@
 
 Project pulled from: https://github.com/kubowania/battleships?ref=morioh.com&utm_source=morioh.com
 
+To start app:
+
+Dowload docker image(https://hub.docker.com/r/roycebradley/battleships) using 'https://hub.docker.com/r/roycebradley/battleships'
+
+Once downloaded, you can run the image on port 5000 with the following command 'docker run -p 5000:3000 917c7f6469ba'
 
 javaScript HTML and CSS 
 
