@@ -1,4 +1,8 @@
 # battleships-game
+
+Project pulled from: https://github.com/kubowania/battleships?ref=morioh.com&utm_source=morioh.com
+
+
 javaScript HTML and CSS 
 
 Welcome to another JavaScript Game walkthrough! In this game, we learn not only how to make the popular retro game battleships, but we team up with YouTubers codeSTACKr and Web Dev Simplified  in order to make it multiplayer and style it to the MAX!
