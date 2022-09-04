@@ -2,7 +2,7 @@
 
 Project pulled from: https://github.com/kubowania/battleships?ref=morioh.com&utm_source=morioh.com
 
-GOOD LUCK CAPTAIN!!!!!!!!!
+GOOD LUCK CAPTAIN!!!!!!!!!!
 
 ---------------
 
