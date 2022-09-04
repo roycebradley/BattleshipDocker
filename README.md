@@ -2,6 +2,8 @@
 
 Project pulled from: https://github.com/kubowania/battleships?ref=morioh.com&utm_source=morioh.com
 
+GOOD LUCK CAPTAIN!!
+
 ---------------
 
 To start app:
@@ -12,7 +14,7 @@ Once downloaded, you can run the image on port 5000 with the following command '
 
 ---------------
 
-javaScript HTML and CSS 
+javaScript HTML and CSS
 
 Welcome to another JavaScript Game walkthrough! In this game, we learn not only how to make the popular retro game battleships, but we team up with YouTubers codeSTACKr and Web Dev Simplified  in order to make it multiplayer and style it to the MAX!
 
@@ -51,7 +53,7 @@ copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software. 
+copies or substantial portions of the Software.
 
 *Translation: Ofcourse you can use this for you project! Just make sure to say where you got this from :)
 
