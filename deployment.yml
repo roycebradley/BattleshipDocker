@@ -1,0 +1,38 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: myapp
+spec:
+  selector:
+    matchLabels:
+      app: myapp
+  template:
+    metadata:
+      labels:
+        app: myapp
+    spec:
+      containers:
+      - name: myapp
+        image: roycebradley/battleships:1.0
+        resources:
+          limits:
+            memory: "128Mi"
+            cpu: "500m"
+        ports:
+        - containerPort: 3000 #no effect on running the service
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: myapp
+spec:
+#Before EKS type: NodePort
+  type: LoadBalancer #EKS config
+  selector:
+    app: myapp
+  ports:
+  - protocol: TCP
+    port: 5000
+    targetPort: 3000
+
