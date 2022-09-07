@@ -4,6 +4,8 @@ Project pulled from: https://github.com/kubowania/battleships?ref=morioh.com&utm
 
 GOOD LUCK CAPTAIN!!!!!!!!!!!!!!!!!!!!!!!
 
+The webhook will trigger a new build!
+
 ---------------
 
 To start app:
