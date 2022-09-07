@@ -20,6 +20,7 @@ spec:
             cpu: "500m"
         ports:
         - containerPort: 3000 #no effect on running the service
+        imagePullPolicy: Always
 ---
 
 apiVersion: v1
